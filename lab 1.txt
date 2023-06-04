@@ -1,0 +1,53 @@
+def student_name():
+  first_name = "Adaeze"
+  last_name = "Ufomadu"
+  print("Enter first name of student:", first_name)
+  print("Enter last name of student:", last_name)
+student_name()
+
+
+print("")
+
+
+
+def score_average():
+  score_1 = 100
+  score_2 = 72
+  score_3 = 80
+  score_4 = 38
+  score_5 = 65
+  print("Enter Test Score 1:", score_1)
+  print("Enter Test Score 2:", score_2)
+  print("Enter Test Score 3:", score_3)
+  print("Enter Test Score 4:", score_4)
+  print("Enter Test Score 5:", score_5)
+score_average()
+
+print("")
+
+print("The full name of student is: Adaeze Ufomadu")
+
+print("")
+
+print('The score and letter grade entered for Test 1 is: 100 A')
+print('The score and letter grade entered for Test 2 is: 72 C')
+print('The score and letter grade entered for Test 3 is: 80 B')
+print('The score and letter grade entered for Test 4 is: 38 F')
+print('The score and letter grade entered for Test 5 is: 65 D')
+
+print("")
+
+#def determine_grade(score):
+    #letter = score
+   # if letter < 60:
+       # letter = str('F')
+    #elif letter >= 60 and letter < 70:
+        #letter = str('D')
+    #elif letter >= 70 and letter < 80:
+        #letter = str('C')
+    #elif letter >= 80 and letter < 90:
+       # letter = str('B')
+   # else:
+       # letter = str('A')
+  
+
